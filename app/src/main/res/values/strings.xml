@@ -5,4 +5,9 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <!-- content_main.xml -->
+    <string name="enter_event_title">Título do evento</string>
+    <string name="enter_event_description">Descrição do evento</string>
+
 </resources>
